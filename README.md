@@ -212,4 +212,8 @@ Thanks for open-sourcing!
 }
 ```
 
+## Local Research and Responsible Use Notes
 
+This repository contains the original Stable Diffusion research codebase. Preserve upstream author attribution, model-card references, and license terms when adapting it.
+
+For local generation experiments, record the model checkpoint, prompt, seed, sampler, inference steps, guidance scale, and output resolution so results can be reproduced. Review the model license and applicable usage restrictions before redistributing generated outputs or deploying a public generation service.
