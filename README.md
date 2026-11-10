@@ -217,3 +217,12 @@ Thanks for open-sourcing!
 This repository contains the original Stable Diffusion research codebase. Preserve upstream author attribution, model-card references, and license terms when adapting it.
 
 For local generation experiments, record the model checkpoint, prompt, seed, sampler, inference steps, guidance scale, and output resolution so results can be reproduced. Review the model license and applicable usage restrictions before redistributing generated outputs or deploying a public generation service.
+
+## Usage and Reproducibility Notes
+
+This repository includes the Stable Diffusion project and its upstream materials. These notes are for local experimentation and do not claim authorship of the original model or implementation.
+
+- Review the official model documentation, license, and usage restrictions before generating or redistributing outputs.
+- Record the checkpoint, inference settings, prompt, and random seed when comparing results.
+- Consider hardware requirements and use an appropriate inference configuration for the available device.
+- Review generated images for artifacts and suitability; preserve upstream attribution and notices.
